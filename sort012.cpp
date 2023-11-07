@@ -106,3 +106,5 @@ If arr[l] is 1, it's already in the correct section, and the l pointer is moved 
         }
     }
 }
+
+// TC = O(N) SC = O(1)
